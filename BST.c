@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 // Sab bekar hai
+//piyush nalla hai
 struct node{
     int data;
     struct node *left;
